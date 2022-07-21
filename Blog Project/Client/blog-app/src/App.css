@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-457881.jpg&fm=jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  min-width: 100vw;
+}

@@ -1,0 +1,8 @@
+.add-post-btn {
+  background-color: green !important;
+}
+
+.errMsg {
+  color: red;
+  list-style-type: none;
+}
